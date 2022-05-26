@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @StefanAtAdrete
 - 👀 I’m interested in digital marketing, Drupal and webdev
 - 🌱 I’m currently learning git, Drupal 9 and coding
-- 💞️ I’m looking to collaborate on Drupal
+- I’m looking to collaborate on Drupal
 - 📫 How to reach me: stefan@adrete.se
 
 <!---
